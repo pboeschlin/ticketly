@@ -1,0 +1,12 @@
+{
+  "name": "Ticketly — Mes reçus",
+  "short_name": "Ticketly",
+  "description": "Numérisez et retrouvez vos reçus.",
+  "display": "standalone",
+  "start_url": ".",
+  "background_color": "#f6f7fb",
+  "theme_color": "#101828",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
